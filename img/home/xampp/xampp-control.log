@@ -1,0 +1,27 @@
+11:07:39  [main] 	Initializing Control Panel
+11:07:39  [main] 	Windows Version:  Enterprise  64-bit
+11:07:39  [main] 	XAMPP Version: 8.1.25
+11:07:39  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:07:39  [main] 	You are not running with administrator rights! This will work for
+11:07:39  [main] 	most application stuff but whenever you do something with services
+11:07:39  [main] 	there will be a security dialogue or things will break! So think 
+11:07:39  [main] 	about running this application with administrator rights!
+11:07:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:07:39  [main] 	Checking for prerequisites
+11:07:41  [main] 	All prerequisites found
+11:07:41  [main] 	Initializing Modules
+11:07:41  [main] 	Starting Check-Timer
+11:07:41  [main] 	Control Panel Ready
+11:07:43  [Apache] 	Attempting to start Apache app...
+11:07:44  [Apache] 	Status change detected: running
+11:07:46  [Apache] 	Status change detected: stopped
+11:07:46  [Apache] 	Error: Apache shutdown unexpectedly.
+11:07:46  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:07:46  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:07:46  [Apache] 	Press the Logs button to view error logs and check
+11:07:46  [Apache] 	the Windows Event Viewer for more clues
+11:07:46  [Apache] 	If you need more help, copy and post this
+11:07:46  [Apache] 	entire log window on the forums
+11:16:07  [main] 	Deinitializing Modules
+11:16:07  [main] 	Deinitializing Control Panel
+
